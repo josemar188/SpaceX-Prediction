@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![Machine Learning](https://img.shields.io/badge/Focus-Machine_Learning-orange)
 
+<img src="https://i.postimg.cc/pTCDxGVZ/IMG-3743.jpg" alt="spacex-rock">
+
 ## 📋 Visão Geral
 Este projeto analisa o histórico de lançamentos da **SpaceX** para prever se o primeiro estágio do foguete Falcon 9 pousará com sucesso. Determinar a probabilidade de um pouso bem-sucedido é crucial para estimar o custo de um lançamento, já que a reutilização de foguetes reduz drasticamente os gastos em comparação com concorrentes.
 
