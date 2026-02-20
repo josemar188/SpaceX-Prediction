@@ -7,6 +7,13 @@
 
 <img src="https://i.postimg.cc/pTCDxGVZ/IMG-3743.jpg" alt="spacex-rock">
 
+### 🎥 Demonstração do Projeto
+<div align="center">
+  <video src="https://files.fm/u/8j9e8wsndw" width="100%" controls autoplay muted loop>
+    O seu navegador não suporta a tag de vídeo.
+  </video>
+</div>
+
 ## 📋 Visão Geral
 Este projeto analisa o histórico de lançamentos da **SpaceX** para prever se o primeiro estágio do foguete Falcon 9 pousará com sucesso. Determinar a probabilidade de um pouso bem-sucedido é crucial para estimar o custo de um lançamento, já que a reutilização de foguetes reduz drasticamente os gastos em comparação com concorrentes.
 
